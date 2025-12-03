@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maseili
-- 👀 I’m interested in desktop application 
-- 🌱 I’m currently learning software engineering
+- 👋 Hi, I’m @maseil
+- 👀 I’m interested in Mobile and Software application 
+- 🌱 Software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
      Email: maseili.musa@gmail.com
